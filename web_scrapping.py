@@ -2,7 +2,7 @@ import requests
 import bs4
 
 KEYWORDS = ['дизайн', 'фото', 'web', 'python']
-text = []
+
 response = requests.get('https://habr.com/ru/articles/')
 soup = bs4.BeautifulSoup(response.text, features='lxml')
 
@@ -16,11 +16,10 @@ for article in all_articles:
         if article.text.lower().find(word) > 0:
             article_time = article.find('time').get('title')
             article_header = article.find('h2').find('span').text
-            article_link = ('https://habr.com' + article.find('h2').find('a').get('href'))
             parsed_data.append({
                 'time': article_time,
                 'header': article_header,
-                'link': article_link,
+                'link': link
             })
 
 print(parsed_data)
