@@ -1,0 +1,50 @@
+[
+    {
+        "word": "дизайн",
+        "time": "2025-04-15, 14:00",
+        "header": "Неон",
+        "link": "https://habr.com/ru/companies/gazprombank/articles/900940/"
+    },
+    {
+        "word": "фото",
+        "time": "2025-04-15, 14:00",
+        "header": "Неон",
+        "link": "https://habr.com/ru/companies/gazprombank/articles/900940/"
+    },
+    {
+        "word": "web",
+        "time": "2025-04-15, 13:58",
+        "header": "Гайд с видео: Метрики в Monq от сбора данных до алертинга",
+        "link": "https://habr.com/ru/companies/monq/articles/901028/"
+    },
+    {
+        "word": "дизайн",
+        "time": "2025-04-15, 13:28",
+        "header": "Ключ от всех дверей: MITM-атака на протокол Wiegand с помощью самодельной платы",
+        "link": "https://habr.com/ru/companies/bastion/articles/898758/"
+    },
+    {
+        "word": "дизайн",
+        "time": "2025-04-15, 13:17",
+        "header": "Как CJE помогает команде улучшать пользовательский опыт: пример RUTUBE",
+        "link": "https://habr.com/ru/companies/habr_rutube/articles/899954/"
+    },
+    {
+        "word": "дизайн",
+        "time": "2025-04-15, 13:16",
+        "header": "Погружение в ClickHouse: делаем первые и успешные шаги",
+        "link": "https://habr.com/ru/articles/901018/"
+    },
+    {
+        "word": "web",
+        "time": "2025-04-15, 13:16",
+        "header": "Погружение в ClickHouse: делаем первые и успешные шаги",
+        "link": "https://habr.com/ru/articles/901018/"
+    },
+    {
+        "word": "web",
+        "time": "2025-04-15, 12:54",
+        "header": "Рецензия на книгу “Elasticsearch в действии, 2-е издание”",
+        "link": "https://habr.com/ru/companies/ssp-soft/articles/901006/"
+    }
+]
